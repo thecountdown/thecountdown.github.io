@@ -18,7 +18,7 @@ document.addEventListener('DOMContentLoaded', function () {
   $('#value').addClass('value-normal');
 
   particleground(document.getElementById('particles-primary'), {
-    dotColor: 'rgba(255, 255, 255, 0.7)',
+    dotColor: 'rgba(255, 255, 255, 0.75)',
     lineColor: 'rgba(255, 255, 255, 0.1)',
     minSpeedX: 0.3,
     maxSpeedX: 0.6,
@@ -32,7 +32,7 @@ document.addEventListener('DOMContentLoaded', function () {
   });
 
   particleground(document.getElementById('particles-secondary'), {
-    dotColor: 'rgba(255, 255, 255, 0.3)',
+    dotColor: 'rgba(255, 255, 255, 0.25)',
     lineColor: 'rgba(255, 255, 255, 0.1)',
     minSpeedX: 0.075,
     maxSpeedX: 0.15,
