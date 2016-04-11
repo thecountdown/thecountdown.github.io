@@ -18,7 +18,7 @@ document.addEventListener('DOMContentLoaded', function () {
   $('#value').addClass('value-normal');
 
   particleground(document.getElementById('particles-primary'), {
-    dotColor: 'rgba(255, 255, 255, 0.75)',
+    dotColor: 'rgba(255, 255, 255, 0.85)',
     lineColor: 'rgba(255, 255, 255, 0.1)',
     minSpeedX: 0.3,
     maxSpeedX: 0.6,
