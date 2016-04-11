@@ -137,7 +137,7 @@ document.addEventListener('DOMContentLoaded', function () {
     }
 
     $('#value').text(updatedValue);
-  }, 900);
+  }, 980);
 
 
 }, false);
