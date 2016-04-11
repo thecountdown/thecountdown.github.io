@@ -71,6 +71,7 @@ body {
 }
 
 #unit {
+  letter-spacing: 0.02em;
   font-size: 1.8em;
   font-family: pnr;
 }
@@ -82,6 +83,7 @@ body {
   margin-right: auto;
   font-size: 2.3em;
   font-family: cl;
+  letter-spacing: 0.02em;
 }
 
 #menu-button {
