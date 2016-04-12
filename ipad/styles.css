@@ -107,7 +107,7 @@ body {
           animation: load3 1.4s infinite linear;
   -webkit-transform: translateZ(0);
           transform: translateZ(0);
-  visibility: invisible;
+  visibility: hidden;
 }
 
 #menu-button:before {
