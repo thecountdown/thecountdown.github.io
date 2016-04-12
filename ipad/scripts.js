@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', function () {
   var HOURS = 2;
   var MINUTES = 3;
   var SECONDS = 4;
-  var TARGET_DATE = new Date(2019, 0, 3, 0, 0, 0, 0);
+  var TARGET_DATE = new Date(2019, 5, 2, 0, 0, 0, 0);
 
   var displayType = 0;
   $('#unit').text("");
